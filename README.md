@@ -1,9 +1,8 @@
 # Crispy-Potato
 
-# IMDB.com like website with basic CRUD and movie listing using C# (Asp.NET MVC / Asp.NET Core).
+IMDB.com like website with basic CRUD and movie listing using C# (Asp.NET MVC / Asp.NET Core).
+The application should hold movies, which are the main app entities. The functionality of the app should support creating, listing, editing and deleting movies. 
 
-Simple Movie Database App. The application should hold movies, which are the main app entities. The functionality of the app should support creating, listing, editing and deleting movies. 
-The application should persist the data into a database. Data validation and error handling is a plus but is not mandatory.
 
 # Overview
 1. ASP.NET framework (ASP.NET MVC + Entity Framework)
@@ -36,8 +35,8 @@ GET shows a form to edit a certain film. POST confirms editing a film and modifi
 
 # Setup
  
- Before you start working, make sure you download all the dependencies (packages) required for each technology and set up the databases! Below are instructions on how to do this:
+Before you start working, make sure you download all the dependencies (packages) required for each technology and set up the databases! Below are instructions on how to do this:
  
- The project will automatically resolve its NuGet dependencies (described in packages.config) using the NuGet package restore when the project is built. Just run the IMDB.sln after resolving all the dependencies on Visual Studio.
+The project will automatically resolve its NuGet dependencies (described in packages.config) using the NuGet package restore when the project is built. Just run the IMDB.sln after resolving all the dependencies on Visual Studio.
  
 
